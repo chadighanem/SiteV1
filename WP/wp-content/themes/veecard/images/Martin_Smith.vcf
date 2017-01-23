@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vcard from TroyWolf.com//NONSGML Version 1//EN
+REV:2012-10-29 14:35:39
+FN:Martin Smith
+N:Smith;Martin;;;
+TITLE:passionate designer and developer
+ORG:Site5.com
+ADR;TYPE=work:;;226 Elwyn Street;New York;NY;10005;
+EMAIL;TYPE=internet,pref:martin.smith@gmail.com
+TEL;TYPE=work,voice:+1 034 567 789
+TEL;TYPE=cell,voice:+1 034 567 790
+TZ:+0000
+END:VCARD
